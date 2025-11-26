@@ -315,7 +315,7 @@ nav .fa-solid{
 @media only screen and (max-width: 600px)
 {
   #header{
-    background-image: url(phone.jpg);
+    background-image: url(images/phone.jpg);
   }
   .header-text{
     margin-top: 100%;
@@ -375,4 +375,5 @@ nav ul .fa-solid{
   color: #61b752;
   margin-top: -40px;
   display: block;
+
 }
